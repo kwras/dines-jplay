@@ -1,6 +1,6 @@
 token=NTE1NjE1NTQ1OTAzNTQ2MzY5.Dtnr8w.6YZbO9Wa-dGlki729O-kJ7BtT1M
 owner=506211849100984320
-prefix= J
-game= Jhelp
+prefix= K
+game= Khelp
 stayinchannel=true 
 songinstatus=true 
